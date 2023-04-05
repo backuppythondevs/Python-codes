@@ -1,9 +1,6 @@
 import secrets
 import string
 
-
-
-
 #  Función que genera una contraseña aleatoria
 def PasswordGenerator(length):
     password = ""
