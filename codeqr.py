@@ -13,6 +13,3 @@ if __name__ == '__main__':
     file_name = 'MyCodeQR.png'
     code_qr = CodeQR(data, file_name)
     code_qr.generateQr()
-
-
-
