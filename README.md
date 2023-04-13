@@ -37,6 +37,7 @@ pip install -r requirements.txt
 | --- | --- |
 | [1. Password](password.py) |  [Generador de Contraseñas](password.py)|
 | [2. YouTube Downloader](youTutbeDownloader.py) |  [Descargar videos de YouTube](youTutbeDownloader.py)|
+| [3. QR code](codeqr.py) |  [Generar código QR](codeqr.py)|
 
 
 
